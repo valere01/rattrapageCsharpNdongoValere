@@ -1,0 +1,12 @@
+D:\PROJETS\PROJETS C#\rattrapageCsharp\rattrapageCsharp\rattrapageCsharp\bin\Debug\rattrapageCsharp.exe.config
+D:\PROJETS\PROJETS C#\rattrapageCsharp\rattrapageCsharp\rattrapageCsharp\bin\Debug\rattrapageCsharp.exe
+D:\PROJETS\PROJETS C#\rattrapageCsharp\rattrapageCsharp\rattrapageCsharp\bin\Debug\rattrapageCsharp.pdb
+D:\PROJETS\PROJETS C#\rattrapageCsharp\rattrapageCsharp\rattrapageCsharp\obj\Debug\rattrapageCsharp.csprojResolveAssemblyReference.cache
+D:\PROJETS\PROJETS C#\rattrapageCsharp\rattrapageCsharp\rattrapageCsharp\obj\Debug\rattrapageCsharp.exe
+D:\PROJETS\PROJETS C#\rattrapageCsharp\rattrapageCsharp\rattrapageCsharp\obj\Debug\rattrapageCsharp.pdb
+D:\PROJETS\PROJETS C#\rattrapageCsharpNdongoValere\rattrapageCsharp\rattrapageCsharp\bin\Debug\rattrapageCsharp.exe.config
+D:\PROJETS\PROJETS C#\rattrapageCsharpNdongoValere\rattrapageCsharp\rattrapageCsharp\obj\Debug\rattrapageCsharp.exe
+D:\PROJETS\PROJETS C#\rattrapageCsharpNdongoValere\rattrapageCsharp\rattrapageCsharp\obj\Debug\rattrapageCsharp.pdb
+D:\PROJETS\PROJETS C#\rattrapageCsharpNdongoValere\rattrapageCsharp\rattrapageCsharp\bin\Debug\rattrapageCsharp.exe
+D:\PROJETS\PROJETS C#\rattrapageCsharpNdongoValere\rattrapageCsharp\rattrapageCsharp\bin\Debug\rattrapageCsharp.pdb
+D:\PROJETS\PROJETS C#\rattrapageCsharpNdongoValere\rattrapageCsharp\rattrapageCsharp\obj\Debug\rattrapageCsharp.csprojResolveAssemblyReference.cache
